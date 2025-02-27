@@ -11,8 +11,24 @@ PRIORITY_MATCH_!@$@@!#=:=This is an empty Data----------------------------------
 
 <and>
 PREVIOUS_MEMORY_LOGIC_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+FIVE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+FOUR_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+
+
+<and>
+THREE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>what,ai^ai,mimic|simulate|simulation,human,intelligence^example=:=Sure, an example of AI is ChatGPT.<or>Sure, an example of an AI is Gemini.<or>Sure, an example of AI is Deepseek.
+
+<and>
+TWO_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>example^another=:=Sorry I have memory limit and cannot give anymore example.<or>Sorry I am unable to give you any example, I have memory limit.
+<and>i,not,gay^i,never|didnt|not|aint,said,you,gay=:=You're right, you never said I am gay.<or>You maybe right but you never said that I was gay.<or>Maybe not, but I really am not gay.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -216,7 +232,6 @@ This is my as of my last updated knowledge in 2024 - 2025, for full accuracy, pl
 <and>what,are|is,my|her|his|their,question=:=It’s up to you what you want to ask. Type <u>help</u> for more info.
 <and>how,you,say,so|it/why,is,that|it so=:=It’s because it’s what i read from my definition of data.<or>Because it is what i know.<or>I don’t know what i said that.<or>I have no idea why, maybe because i am just a predefined data.
 <and>do,you,have|has,name=:=Yes i do have a name, my name is KV Chat Bot.<or>Yes i have, my name's KV Chat Bot.<or>Yes i do and my name is KV Chat Bot.
-<and>when,your,data|dictionary|definition,updated/when,your,latest,data|dictionary,definition=:=My last data was updated this February 27, 2025 at 10:10 PM.
 
 <and>
 THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
