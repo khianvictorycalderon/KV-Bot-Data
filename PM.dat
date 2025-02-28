@@ -24,6 +24,8 @@ FOUR_TURNS_!@$@@!#=:=This is an empty Data--------------------------------------
 <and>
 THREE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>example^example,ai^another=:=Ok another example of AI is ChatGPT.<or>Another example of an AI is Gemini.<or>Another example of AI is Deepseek.
+<and>battle,yultong^meme^yes|yeah|yep=:=It was fought between approximately 15,000 soldiers from elements of the Chinese People's Volunteer Army (PVA) 34th Division (44th Division from Chinese sources) and 900 Filipino soldiers 10th Battalion Combat Team (BCT), north of Yeoncheon during April 22–23, 1951. The battle was part of the Chinese Spring Offensive.
+<and>why^^why=:=I just gave you the reason.<or>I already stated the reason.<or>I told you the reason earlier.<or>I already told you the reason.
 
 <and>
 TWO_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -35,7 +37,11 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
 <and>ai,mimic|simulate|simulation,human,intelligence^example=:=Sure, an example of AI is ChatGPT.<or>Sure, an example of an AI is Gemini.<or>Sure, an example of AI is Deepseek.
 <and>could|would|can,you^yes/yeah/yep=:=Okay then, let me hear that.<or>Okay then, let me know that.<or>Okay then, let me know something about that.
 <and>could|would|can,you^no/nah/never/pass=:=Okay then, I resepect your decision.<or>Privacy respected.<or>Your privacy is my concern, that's okay.<or>Fine then.
-<and>i,not,external,ai/i,not,chatgpt,gemini,bard,copilot,deepseek^really/sure/certain=:=Yes as a matter of fact I am just a rule-based chatbot with sophisticated algorithm that searches a through a Dictionary.
+<and>i,not,external,ai/i,not,chatgpt,gemini,bard,copilot,deepseek^really/sure/certain=:=As a matter of fact I am just a rule-based chatbot with sophisticated algorithm that searches a through a Dictionary.
+<and>how,can,help^help,me=:=Sure, about what exactly?<or>May I know what how can I help you?<or>How can I be of your help?
+<and>how,you,feel^fine=:=Glad to know that you are doing just fine.<or>Glad to know about that.<or>It's good that you are fine.
+<and>is,something|there,you,want,talk|know^yes|yep|yeah=:=Sure tell me more about that.<or>What do you want to talk about exactly?<or>What do you want to talk about then?<or>Okay then, what specific topic do you have in mind?
+<and>no|dont,politics^why=:=Because I do not want to get involve in politics.<or>I don't want to get involve in politics.<or>Politics is ouf of my scope.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
