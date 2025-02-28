@@ -25,7 +25,8 @@ FOUR_TURNS_!@$@@!#=:=This is an empty Data--------------------------------------
 THREE_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>example^example,ai^another=:=Ok another example of AI is ChatGPT.<or>Another example of an AI is Gemini.<or>Another example of AI is Deepseek.
 <and>battle,yultong^meme^yes|yeah|yep=:=It was fought between approximately 15,000 soldiers from elements of the Chinese People's Volunteer Army (PVA) 34th Division (44th Division from Chinese sources) and 900 Filipino soldiers 10th Battalion Combat Team (BCT), north of Yeoncheon during April 22–23, 1951. The battle was part of the Chinese Spring Offensive.
-<and>why^^why=:=I just gave you the reason.<or>I already stated the reason.<or>I told you the reason earlier.<or>I already told you the reason.
+<and>why^because^why=:=I just gave you the reason.<or>I already stated the reason.<or>I told you the reason earlier.<or>I already told you the reason.
+<and>what|why|who|where|how^the,is^okay|good|nice|wow=:=Did I answer your question correctly?<or>Is my response accurate?<or>Are you finding my response useful?<or>So is my answer to your question correct?
 
 <and>
 TWO_TURNS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -33,15 +34,26 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
 <and>am,i,right^no/nah/never/pass=:=Apologies if I am unable to provide accurate information, I will try my best next time.<or>Sorry for my behavior, I will try to be better next time.<or>My bad, I will try my best next time.<or>Please be patient, I will try to provide more accurate information next time.
 <and>example^another=:=Sorry I have memory limit and cannot give anymore example.<or>Sorry I am unable to give you any example, I have memory limit.
 <and>i,not,gay^i,never|didnt|not|aint,said,you,gay=:=You're right, you never said I am gay.<or>You maybe right but you never said that I was gay.<or>Maybe not, but I really am not gay.
-<and>what,bring,you,here^what,you,think/guess=:=I think you maybe here for a couple of possible reason: Curiosity, Entertainment, or Research purpose, am I right?
+<and>what,bring,you,here^what,you,think/guess=:=I think you maybe here for a couple of possible reason: Curiosity, Entertainment, or Research purpose, am I right?<or>Maybe because of curiosity, am I right?<or>Maybe because of entertainment, am I right?<or>Maybe because of research purpose?
 <and>ai,mimic|simulate|simulation,human,intelligence^example=:=Sure, an example of AI is ChatGPT.<or>Sure, an example of an AI is Gemini.<or>Sure, an example of AI is Deepseek.
-<and>could|would|can,you^yes/yeah/yep=:=Okay then, let me hear that.<or>Okay then, let me know that.<or>Okay then, let me know something about that.
-<and>could|would|can,you^no/nah/never/pass=:=Okay then, I resepect your decision.<or>Privacy respected.<or>Your privacy is my concern, that's okay.<or>Fine then.
-<and>i,not,external,ai/i,not,chatgpt,gemini,bard,copilot,deepseek^really/sure/certain=:=As a matter of fact I am just a rule-based chatbot with sophisticated algorithm that searches a through a Dictionary.
+<and>could|would|can,you,the|please|my^yes/yeah/yep=:=Okay then, let me hear that.<or>Okay then, let me know that.<or>Okay then, let me know something about that.
+<and>could|would|can,you,the|please|my^no /nah/never/pass=:=Okay then, I resepect your decision.<or>Privacy respected.<or>Your privacy is my concern, that's okay.<or>Fine then.
+<and>i,not,external,ai/i,not,chatgpt|gemini|bard|copilot|deepseek^really/sure/certain=:=As a matter of fact I am just a rule-based chatbot with sophisticated algorithm that searches a through a Dictionary.<or>Yes, it's the main reason why I can respond to you.<or>I am sure that I am a chatbot, since I can talk to you.<or>I am certain that I am a chatbot, hence you can talk to me.
 <and>how,can,help^help,me=:=Sure, about what exactly?<or>May I know what how can I help you?<or>How can I be of your help?
 <and>how,you,feel^fine=:=Glad to know that you are doing just fine.<or>Glad to know about that.<or>It's good that you are fine.
 <and>is,something|there,you,want,talk|know^yes|yep|yeah=:=Sure tell me more about that.<or>What do you want to talk about exactly?<or>What do you want to talk about then?<or>Okay then, what specific topic do you have in mind?
 <and>no|dont,politics^why=:=Because I do not want to get involve in politics.<or>I don't want to get involve in politics.<or>Politics is ouf of my scope.
+<and>reason,earlier^what,reason=:=Maybe the reason we talk about something else?<or>For the reason that I don't know.For some reason, I don't know the reason.<or>The reason? I don't know what you're talking about.
+<and>i,inevitable^you,thanos=:=Maybe, maybe not.<or>Kindof, we have some sort of similarities.<or>I am KVBot, I am not thanos.
+<and>difficult|unable,respond^why=:=It's because of my memory limitations, I'm still in an early development of creation.<or>Because I have memory limits, and my memory logic is still under development.<or>My memory logic is still in it's early development, so I may respond right or wrong in some situation.
+<and>my,answer|response,correct|accurate|good|useful/did,i,answer,correct|accurate|useful^yes|yep|yeah=:=Yes, thank you very much for your feedback.<or>Glad to help.<or>I'm glad that I can answer your questions correctly.<or>It's good to know, thank you for keeping your patience talking to me.
+<and>my,answer|response,correct|accurate|good|useful/did,i,answer,correct|accurate|useful^no|never|nah=:=Oops, I'm sorry, i will try to be better next time.<or>Apologies, I will try to be better next time I answer your question.<or>Sorry for my behavior, I will try to better answer your question next time.<or>Please be patient, I'm still my early development phase.
+<and>because,of^no|wrong|incorrect=:=If you say so, it could be because of other reason.<or>Alright, maybe it's because of other reason.<or>It maye due to some other reason of which I don't know.
+<and>what,come,mind^ =:=Well if that's the case, would you like to talk about something else?<or>Nahh, I can't understand what's on your mind.<or>That's what on your mind?<or>So that is what you are thinking right now?
+<and>what,you,think^i,think=:=That's fair enough.<or>Fair enough though.<or>Fine then, that's fair.<or>Fine, your thinking is quite human.<or>Now I know how you think.
+<and>thank,you/thanks^welcome=:=Now that's a spirit that I can count on.<or>That's the spirit of you.<or>Very well then.<or>Much is appreciated from you.<or>I appreciate it.
+<and>i,fast,because/the,reason,fast,because^how/elaborate/expand/explain/what,that,mean|implies/that,means|implies,what=:=Okay, think of it this way, it's like storing my entire brain into your device.<or>Fine, think of it this way, it's like putting everyhing I know in your device.<or>Think of it like this, I have all the book I need in my house, and then moving it to yours which is your device.
+<and>a,chatbot|ai|chat bot^what,kind=:=A kind of chatbot that is trained from scratch, no external API call to an external server to generate response, everything happens inside your device.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -50,6 +62,7 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
 <and>do,you,learn,dynamic=:=No I don’t learn dynamically, instead I am manually trained by my developer to respond to you the user.
 <and>do,you,know,my,name/what,my,name=:=I don’t know your name and I don’t mention names because I don’t remember names so well, I just compliment it and that’s it. Type <u>help</u> for more info.
 <and>what,you,really,like=:=I don’t like anything, I don’t have the capacity to like anything.<or>I have no capacity to like something.<or>I don’t have an ability to like something.
+<and>because,i,am,human|person=:=Correct, you cannot talk to me if you are not a human.<or>You are right, you cannot talk to me if you are not a human being.<or>Fair enough, you really are a human.<or>Yes, you are a human.
 <and>if,you,human,what,you,do/what,you,do,if,you,human=:=If I am a human, I would choose to do things that makes me happy just like my developer. You see, the personality of my developer greatly affects my personality as I am trained from scratch, meaning he has to train me every possible question that a user might ask me. He is that kind of person and so was i, I would do things that makes me happy.
 <and>how,fly|go,in|to,south,korea,eps|work=:=To go to South Korea as an EPS (Employment Permit System) worker, you need to follow a structured process, as this system is designed for foreign workers from certain countries to legally work in South Korea. EPS primarily allows workers in sectors like manufacturing, construction, agriculture, and fisheries. Here are some guidelines:
   <ul>
@@ -245,6 +258,7 @@ This is my as of my last updated knowledge in 2024 - 2025, for full accuracy, pl
 <and>what,are|is,my|her|his|their,question=:=It’s up to you what you want to ask. Type <u>help</u> for more info.
 <and>how,you,say,so|it/why,is,that|it so=:=It’s because it’s what I read from my definition of data.<or>Because it is what I know.<or>I don’t know what I said that.<or>I have no idea why, maybe because I am just a predefined data.
 <and>do,you,have|has,name=:=Yes I do have a name, my name is KV Chat Bot.<or>Yes I have, my name's KV Chat Bot.<or>Yes I do and my name is KV Chat Bot.
+<and>why,should,you,trusted/why,should,trust,you=:=I'm not saying you should trust me, what I can say is continue doing good things.<or>I never said you to trust me since I don't feel emotions, or conscience at all.<or>I am incapable of telling you that but what I can tell is keep going forward.
 
 <and>
 THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -328,7 +342,7 @@ THREE_WORDS_!@$@@!#=:=This is an empty Data-------------------------------------
 <and>how,you,work|generate|respond=:= As a chatbot, I respond by looking at my vocabularies of pre-defined data. I am manually updated in code by my developer who is Khian Victory.
 <and>yes|yeah|yep,i,believe=:=It’s okay to believe, and it’s okay to not believe.<or>Yeah that’s a good determination.<or>Having a belief like that is the spirit.
 <and>do,you,know=:= Sorry but I no such thing.<or>Sorry but I don’t know anything about that. Type <u>help</u> for more info.<or>Apologies but I don’t know anything about that. Type <u>help</u> for more info.<or>I’m sorry but I have no idea about that, you could try asking something else. Type <u>help</u> for more info.
-<and>what,you, do|capable=:=Well I can talk to you.<or>I am capable of talking to you.<or>I am capable on lot of things, type help for more info.
+<and>what,you, do| capable=:=Well I can talk to you.<or>I am capable of talking to you.<or>I am capable on lot of things, type help for more info.
 <and>where,you,live=:= I don't have a physical body as I am a computer program, so I do not occupy space. Therefore, I live in every device that users talk to me on, for example, on your device.
 <and>do,you,love|like,me=:=I don't have the capacity to love or like something or someone.<or>I don't really love or like something or someone as I am incapable of that.<or>I am unable to that as I don't love or like something or someone.
 <and>where,you,get|got/where|what,your|reference|source=:=My developer provides me the source of all the information I generate.<or>My creator provides me the necessary data that I respond to a user.<or>My developer gives me the information I need depending on what the user asks.
@@ -427,7 +441,7 @@ TWO_WORDS_!@$@@!#=:=This is an empty Data---------------------------------------
 <and>what,data=:=Sorry but I don’t know anything about that. Type <u>help</u> for more info.<or>Sorry but I can’t help your data, I don’t know what kind of data you are talking about. Type <u>help</u> for more info.<or>My apologies but I don’t know that kind of data. Type <u>help</u> for more info.
 <and>me,too=:=Yeah I guess we have similarities then?<or>Yes I think we have some similarities.<or>Yep, maybe we have some similarities.
 <and>that|you,hurts|painful/ouch=:=Sorry if it hurts, my apologies.<or>Yeah it really hurts, sorry for being mean.<or>Apologies, I may sometimes say mean things.<or>My bad, sorry if you’ve been hurt.
-<and>think,of=:=Try to think of something.<or>Shall you think of something?<or>You ever heard of hard work pays off?<or>Think critical, a very beautiful saying.
+<and>think,of=:=Try to think of sodmething.<or>Shall you think of something?<or>You ever heard of hard work pays off?<or>Think critical, a very beautiful saying.
 <and>where,the=:=I don’t know where it is.<or>Maybe you should look for it.<or>I have no idea where it could be, you might want to start to look for it.<or>I think you should look for it, I don’t know either.
 <and>give,me=:=No I can’t give you that.<or>Uhmm…. I don’t have that.<or>I can’t give you that.<or>Can’t give you that because I don’t have it.<or>I don’t have anything like that.
 <and>im|i am|me,hungry=:=Then eat.<or>Eat well.<or>If you’re hungry, then eat.<or>I don’t have food, so you should eat.
@@ -466,6 +480,7 @@ ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------
 <and>about=:=Ohh okay, I am not yet capable of understanding reasoning.<or>I am not yet capable of understanding that specific question or query.<or>Yeah, can't say I understand you fully, so what other things do you want to talk about?
 <and>welcome=:=So what do you want to talk about?<or>Fine then, what shall we talk about?<or>Ok then, shall we move on?<or>So what brings you here today?<or>Ok then, what are you interested to talk about?<or>Fine then, which topic are you interested to talk about?
 <and>salary=:=Oops, I don’t have a salary like human does.<or>I don’t have salary because I don’t need it.<or>Salary is something not I need like humans do.<or>Salary are for humans only.<or>Salary is not my thing.
+<and>elaborate|expand=:=I don't have the capacity to expand or elaborate that.<or>I can't expand nor elaborate that.<or>I am still unable to elaborate or expand that.
 <and>chatgpt|gemini|bard|copilot|deepseek=:=No I am not an external AI, I am really embedded in this website, and I am not an external chatbot, I am myself, I am inevitable.<or>I will correct that one bit, I am not an external API bot, as I am created using Firebase and chatbot API is expensive and it’s the main reason why I was trained from scratch.<or>Nope, I am not a ChatGPT, Gemini, Bard, CoPilot, nor Deepseek, as I am KV Bot trained from scratch, I am myself, I am not based to any chatbot’s API.<or>I am not an external API chatbot, I am myself, I am KV Bot, I am manually trained from scratch and you can analyze my output generation via chatbot detector.
 <and>anything=:=I don’t know what are you talking about. Type <u>help</u> for more info.<or>I have no idea of what you’re saying. Type <u>help</u> for more info.
 <and>racist|racism=:= I don't know anything about racism.<or>I don't know about that. Type <u>help</u> for more info.<or>Sorry but racism is out of my vocabularies. Type <u>help</u> for more info.
