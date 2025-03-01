@@ -116,7 +116,7 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
 <and>bot,assist,you^how=:=Well I can answer some follow up questions or casual questions in general.<or>I can answer some basic questions with follow up questions.<or>By responding to what you are saying or asking me.
 <and>a,bot,is^are,you|how,you=:=I am considered as a chatbot.<or>I am a chatbot.<or>Yes I am a chatbot myself.
 <and>yes,i,bot^how/prove/proof=:=Well I can respond to you by looking at my pre-defined data called dictionaries.<or>As I respond to you right know, I am now considered a chatbot.<or>Well I can respond to you user, anything you ask or say.
-<and>i,fine^ask|how about,me=:=Okay then, how are you?<or>How are you then?<or>Apologies, 
+<and>i,fine^ask|how about,me=:=Okay then, how are you?<or>How are you then?<or>Apologies, how are you then?<or>Okay, how are you too?
 <and>how,are,you^not |aint ,fine|good|well=:=That's okay, the important thing is to keep going forward.<or>What's bothering you?<or>I feel for you user.<or>I may not have an emotion but I am here for you.
 <and>how,are,you^fine|good|well=:=It's good to know, keep going.<or>Glad to know that you're fine.<or>Okay then, I'm glad to you are doing well.
 
