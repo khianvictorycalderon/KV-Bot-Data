@@ -1,61 +1,286 @@
-what are you/what are you?/what are you./what are you then/what are you then?/what are you then.=:=I am a chat bot willing to assist you.<or>I am a chat bot ready to talk to you.<or>I am a chat bot designed for user interaction.
-<and>code a=:=Code "A": I have been compromised.
-<and>code b=:=Code "B": I am under maintainance.
-<and>code c=:=Code "C": I am temporarily under strict monitoring.
-<and>are you dumb/are you dumb?=:=No I am not.<or>No I'm not.<or>I am not.
-<and>who are u/who are u?=:=I'm sorry but I do not accept slang words, type <u>help</u> for more info.
-<and>hello world/hello world.=:=Hello user.<or>Hello there too user.<or>Hi world then.<or>Hi user, what's up?<or>Hi world too user.
-<and>var=:=Syntax Error: Just kidding, I don't interpret commands.<or>Logic does not make any sense.<or>Are you declaring variable? If so, then I will not recognize that.
-<and>im okay/i’m okay/im ok/i’m ok/im okay./i’m okay./im ok./i’m ok./im okay?/i’m okay?/im ok?/i’m ok?=:=I’m glad that you are okay, so what do you want to talk about today?<or>If that’s the case, i’m glad that you are okay.<or>Fine then, what do you want to do then?
-<and>what/what?/what.=:=Tell me more about that.<or>Tell me something more about that.<or>Okay then, may I know more about that?<or>I may be more helpful if you tell me something more about that.
-<and>who?/who/who.=:=That’s the same thing I will ask you.<or>Who exactly are you referring to?<or>Can you be more specific about that person?<or>Who is that?<or>What about them?
-<and>i love you/i love you./i love you?=:=Thank you for your appreciation of me, but I do not have the capacity to reciprocate the love you are giving me.<or>Very much appreciated your love for me, but I can’t replicate the love you are giving me since I am just a chatbot.<or>That’s kind, that means a lot to me it’s just that I cannot love because I don’t have feelings or emotions like humans do.<or>It’s okay to love me as long as that makes you happy but I cannot love you back since I am just a chatbot and I am incapable of loving.
-<and>exactly/exactly./exact/exact.=:=You can't do that to me.<or>Ohh so that's the way it is okay.<or>Fine then, let's talk about something else, shall we?<or>Okay then, how about let’s talk about something else.
-<and>got you/got you./i got you/i got you./i’ve got you/i’ve got you./ive got you/ive got you.=:=Yey, you got me at that one.<or>Yes, you got me at that one.<or>Okay, you’ve got me.
-<and>are you a chatbot/are you a chatbot?/are you a chatbot/are you a chat bot?=:=Yes, I am indeed a chat bot with tons of predefined data.<or>Yes!, I am very well a chat bot.<or>Yes, of course I am a chat bot.
-<and>hey/hey there/hey./hey there.=:=Hello, how may I help you?<or>Hello, how may I be of your help?<or>Hello, KV Chat Bot at your service.<or>Hi, what brings you here today?<or>Hello, how are you user?<or>Hi, how can I help you?<or>Hi, how may I be of your help?
-<and>crazy=:=One might think I’m crazy, see who’s talking to a machine 🙂.<or>We are not the same, You are just a tiny human being with flesh, I am in another dimension that you cannot reach.<or>Ohh is that so? Your time has been wasted by saying things like that.
-<and>i don’t know/i dont know/i dont know./i don’t know.=:=Then what do you know?<or>Alright, let’ talk about something that you know.<or>Fine then, what is it that you know?<or>Maybe let’s talk about something that you know.<or>Okay then, how about we talk about something that you know?
-<and>is=:=Is what?<or>Sorry but do you have something to say?<or>I think you are still unfinished, would you like to complete it?<or>Go on, take your time, is what exactly?
-<and>shit/shit./oh shit/ohshit/oh shit./ohshit.=:=What is that, is that some kind of expression?<or>Could you please be more respectful some time?<or>I think it would be great if you can be more respectful.<or>Respect is the key in this kind of situation right now.<or>Staying calm and be respectful, could you do that for me?
-<and>eyy/ey/eyy./ey.=:=That’s great, so what do you want to do today?<or>Well I guess that impressed you, so what brings you here today?<or>Glad that I did impressed you, how can I help you?<or>Thanks for that wonderful compliment, so what do you want to do today?<or>I might be wrong but that maybe a common filipino expression when they want to say that something is amazing or impressive, so how can I help you?
-<and>nvm=:=Do you mean Nevermind?<or>Sorry but did you mean to say Never mind?<or>You mean to say nevermind?
-<and>true or false/true or false./true or false?=:=True.<or>False.
-<and>yes or no/yes or no./yes or no?/yes and no/yes and no./yes and no?=:=Yes.<or>No.
-<and>good/fine/ok/okay/okay./ok.=:=Right, what do you want to talk about?<or>Okay, what brings you here today?<or>Okay, what do you want to tackle?<or>Fine by me, so what do you want to then?<or>Fine by me, shall we move on?
-<and>but=:=Sorry are you still typing?
-<and>wrong/incorrect=:=Apologies if I am wrong, i’ll make sure my developer knows it.<or>Okay, I will let my developer know that i’m wrong.
-<and>hi./hi/hey/hey.=:=Hi there.<or>Hello there, what’s up?<or>Hi there too.
-<and>okay?/ok?=:=Sorry but do you have doubts to what I said?<or>Sorry but are you having doubts?<or>Apologies for my behavior, are you not sure that what I said is right?
-<and>anything else/anything else?=:=I have nothing more to add.<or>I don’t have anything to add.<or>I can’t add anything because I am still incapable of doing that.
-<and>if?/if/if.=:=Are you asking a hypothetical situation?
-<and>test/test./test?=:=Ok then, how may I help you?<or>You’ve got me, now I am tested, so what do you want to know?<or>Fine then, test successful, I am fully working, how may I help you?
-<and>what are you doin?/what are you doin./what are you doin/what are you doing?/what are you doing./what are you doing/what you doin?/what you doin./what you doin/what you doing?/what you doing./what you doing=:=Talking to you user.<or>I’m doing is what I am designed to do.<or>I am talking to you.<or>Having conversation with you.<or>Talking to you of course.<or>What i’m doing is talking to you user.
-<and>else/else?/else.=:=I’m sorry but it seems to be unclear of what you are asking.<or>Sorry but I don’t understand what else are you talking about.
-<and>wasap/wassup=:=Sorry but using words like that would be difficult for me to understand, you should use complete words for me to better understand you during our conversation.
-<and>release/version/build/command/commands/release./version./build./command./commands.=:=You may type <u>help</u> for more info.
-<and>yeah/yeah?/yeah./yeah me too./yeah me too/me too/me too./yeah, me too/yeah, me too./yes me too/yes me too./yes, me too/yes, me too.=:=Fine then, what else do you want to talk about?<or>Okay, shall we move on? What else do you want to know?<or>Great, so what else do you want to know?<or>Ohh okay, what do you want to talk about other than that?<or>I guess so? So what else do interest you?<or>Okay then, shall we talk about another topic?
-<and>nothing=:=What do you mean nothing?<or>What are you talking about?<or>Sorry but what nothing are you saying?<or>What nothing are we talking about?
-<and>saf/asf/gsa/fsa/gdsa/gasa/gasdg/asdg/sad/sadfadsaks/ds/fda/frw/asf/xcv/fd/sn/dh/hdf/hs/hdf/hd/hd/safas/xv/xcv/vsdew/yer/ef/dfgdf/ds=:=Sorry but it appears to me that what you are typing is gibberish, do you want to say something?<or>Sorry but it appears that you are typing random words, what are you saying?<or>It appears that you may be mistyping some words, do you want to say something?
-<and>wut/wut??/wut???/wut?./wut?../wut?/wut.=:=Sorry is that some kind of slang? I don't understand slang words.<or>Please use more formal words for me to better understand you.
-<and>what are you./what are you?/what are you=:=I am a chatbot ready to assist you.<or>I am something that mimics human conversation.<or>I am a bunch of codes and built as a chatbot.<or>I am a chatbot, ready to help you.
-<and>menu/menu./menu?=:=The menu of this website can be found at the upper left of the screen, click it for more info about me.
-<and>get lost/get lost./get lost?=:=I am not lost, I think you are the one lost.<or>I am not at a lost, I am fine, I don’t need to get lost, because winning and losing does not affect me because I have no emotion.<or>I don’t get lost, maybe you are lost.
-<and>usage/usage./usage?=:=I can’t help you with that, type <u>help</u> for more info.<or>Type <u>help</u> for more info.<or>I don’t know what you’re talking about, type <u>help</u> for more info.
-<and>cls/cls./cls?=:=Sorry but I am not a command prompt to interpret that command, type help for more info.
-<and>who are you/who are you./who are you?/who are you??/who are you???=:= I am KV, a chatbot ready to answer your questions, if I can.<or>My name's KV, so what brings you here today?<or>I am KV, and I am a chatbot, how may I help you today?
-<and>uhh/uh/uhh?/uh?=:=I think you want to say something, what is it?<or>Do you want to say something? What is it?<or>I think you will say something, what is it?
-<and>are you def/are you def?/are you def.=:=I do not possess the capability to hear like human does.<or>Well I can't hear anything at all because I am a chatbot.<or>I wouldn't say it that way, I don't have the capacity to hear since I don't have ears.
-<and>are you happy?/are you happy/are you happy.=:=I am a chatbot, I do not feel any emotion at all.<or>I'm a chatbot, I don't feel emotions like human does.<or>I am a chatbot, I don't have the capacity of such emotion.<or>I am a chatbot, I don't have the capability to feel such emotion.
-<and>roast me/roast me.=:=Sorry but for me it is unethical to do so because I am designed to help users, not annoy them.
-<and>is that all/is that all?/is that all./is that all??=:=Well that’s the only thing I can generate for now.<or>Yeah, that’s all I can respond as of now.<or>Yes, I don’t have anything more to say, that’s what in my data.
-<and>you are chatgpt/you are chatgpt./you are chatgpt?/you are gemini/you are gemini./you are gemini?/you are bard/you are bard./you are bard?/you are copilot/you are copilot./you are copilot?/you are deepseek/you are deepseek./you are deepseek?=:=No I am not ChatGPT, Gemini, Bard, CoPilot, nor Deepseek. I am really my self, I am manually trained from scratch by my developer, I am inevitable.
-<and>that/that's/that's why/that's what/it was a/that's a/that is a/its a/it's why/it's that/it's what/there's a/there's why/there's that/there's what/there's when/there's where/there's how/it was when/it was where/it was how/it was why/this is a/this is why/this is that/this is what/this is when/this is where/this is how/this is who/what is/what is the/who is/who is the/where is/where is the/which is/which is the/how to/how do you/can i/can I do/can/what's/where's/who's/which is what=:=It looks like you weren’t finished typing!<or>It seems like you sent that by mistake. Want to finish your thought?<or>I think you hit send too soon! Feel free to continue.<or>It seems like your message got cut off! What were you going to say?<or>No worries, take your time! What were you going to say next?<or>Oops, looks like you weren't done! What were you going to finish with?<or>It looks like you sent that a bit early! Let me know what you wanted to add.<or>Seems like you pressed send too soon! Feel free to finish typing.<or>Did you mean to send that now? You can continue when you're ready!<or>I think you were in the middle of something. Want to complete your message?<or>No rush, just send the rest when you're ready!<or>It seems like your message got cut off! What were you trying to say?<or>Looks like part of your message was missing! Feel free to complete it.<or>It seems you weren't finished! What were you going to say next?<or>Looks like you pressed send too quickly! Please finish your thought.<or>Looks like that message got sent early! Want to finish what you were saying?<or>It seems like your message was incomplete. Want to try again?<or>You weren’t finished yet, were you? Feel free to send the rest!<or>Looks like you accidentally sent that early. Feel free to finish typing!<or>You didn’t quite finish your message. Let me know the rest!<or>It looks like your message got cut off! Go ahead and finish when you’re ready.<or>Oops, you sent that too soon! What were you going to say next?<or>It seems like there was more you wanted to say. Feel free to add on!<or>You accidentally sent that early! What were you going to finish with?<or>It looks like you hit send too soon! What were you going to type next?<or>No problem! Go ahead and continue when you’re ready.<or>Looks like you didn’t finish your sentence. Feel free to send the rest!<or>It seems like your message was incomplete. What were you going to add?<or>It looks like you might have sent that by mistake. Want to finish what you were saying?<or>It seems like you weren’t done yet. Feel free to continue!<or>I think you pressed send too early! What were you trying to say next?<or>Oops, it looks like you sent part of your message! Go ahead and finish it up!<or>Looks like you were in the middle of typing something! What’s next?<or>It seems you sent that too soon. Feel free to complete your message!<or>You didn’t quite finish that. Want to continue typing?<or>It looks like that message got cut off! What were you going to say?<or>It seems like you sent that message before finishing it. Want to try again?<or>It looks like you weren’t finished typing yet! What’s next?<or>I think you might’ve pressed send too soon! Feel free to continue.<or>Looks like there’s more you wanted to add. Take your time and finish it!<or>I see you sent part of your message. Let me know what’s next!<or>No worries, take your time to finish! What were you going to say?<or>It looks like your message got cut off—want to add more?<or>Looks like you sent an incomplete message! Feel free to complete it.<or>I think you were in the middle of something! Want to continue typing?
-<and>what's up/what's up?/whats up/whats up?/what;s up/what;s up?=:=Yohh what's down?<or>Nothing much.<or>Eyy, what's down?<or>Nahh, what's down.
-<and>you dumb/you dumb./you dumb!/you stupid/you stupid!/you stupid.=:=Well was that nice, It's not isn't it?<or>That's not nice isn't it?<or>Well that ain't nice, isn't it?
-<and>bott/bot/bott./bot.=:=Yes?<or>Hello, what can I do for you?<or>Oh yes?<or>How can I help you?<or>Hello there, what can I do for you today?
+what are you/what are you?/what are you./what are you then/what are you then?/what are you then.=:=
+  I am a chat bot willing to assist you.<or>
+  I am a chat bot ready to talk to you.<or>
+  I am a chat bot designed for user interaction.
+<and>code a=:=
+  Code "A": I have been compromised.
+<and>code b=:=
+  Code "B": I am under maintainance.
+<and>code c=:=
+  Code "C": I am temporarily under strict monitoring.
+<and>are you dumb/are you dumb?=:=
+  No I am not.<or>
+  No I'm not.<or>
+  I am not.
+<and>who are u/who are u?=:=
+  I'm sorry but I do not accept slang words, type <u>help</u> for more info.
+<and>hello world/hello world.=:=
+  Hello user.<or>
+  Hello there too user.<or>
+  Hi world then.<or>
+  Hi user, what's up?<or>
+  Hi world too user.
+<and>var=:=
+  Syntax Error: Just kidding, I don't interpret commands.<or>
+  Logic does not make any sense.<or>
+  Are you declaring variable? If so, then I will not recognize that.
+<and>im okay/i’m okay/im ok/i’m ok/im okay./i’m okay./im ok./i’m ok./im okay?/i’m okay?/im ok?/i’m ok?=:=
+  I’m glad that you are okay, so what do you want to talk about today?<or>
+  If that’s the case, i’m glad that you are okay.<or>
+  Fine then, what do you want to do then?
+<and>what/what?/what.=:=
+  Tell me more about that.<or>
+  Tell me something more about that.<or>
+  Okay then, may I know more about that?<or>
+  I may be more helpful if you tell me something more about that.
+<and>who?/who/who.=:=
+  That’s the same thing I will ask you.<or>
+  Who exactly are you referring to?<or>
+  Can you be more specific about that person?<or>
+  Who is that?<or>
+  What about them?
+<and>i love you/i love you./i love you?=:=
+  Thank you for your appreciation of me, but I do not have the capacity to reciprocate the love you are giving me.<or>
+  Very much appreciated your love for me, but I can’t replicate the love you are giving me since I am just a chatbot.<or>
+  That’s kind, that means a lot to me it’s just that I cannot love because I don’t have feelings or emotions like humans do.<or>
+  It’s okay to love me as long as that makes you happy but I cannot love you back since I am just a chatbot and I am incapable of loving.
+<and>exactly/exactly./exact/exact.=:=
+  You can't do that to me.<or>
+  Ohh so that's the way it is okay.<or>
+  Fine then, let's talk about something else, shall we?<or>
+  Okay then, how about let’s talk about something else.
+<and>got you/got you./i got you/i got you./i’ve got you/i’ve got you./ive got you/ive got you.=:=
+  Yey, you got me at that one.<or>
+  Yes, you got me at that one.<or>
+  Okay, you’ve got me.
+<and>are you a chatbot/are you a chatbot?/are you a chatbot/are you a chat bot?=:=
+  Yes, I am indeed a chat bot with tons of predefined data.<or>
+  Yes!, I am very well a chat bot.<or>
+  Yes, of course I am a chat bot.
+<and>hey/hey there/hey./hey there.=:=
+  Hello, how may I help you?<or>
+  Hello, how may I be of your help?<or>
+  Hello, KV Chat Bot at your service.<or>
+  Hi, what brings you here today?<or>
+  Hello, how are you user?<or>
+  Hi, how can I help you?<or>
+  Hi, how may I be of your help?
+<and>crazy=:=
+  One might think I’m crazy, see who’s talking to a machine 🙂.<or>
+  We are not the same, You are just a tiny human being with flesh, I am in another dimension that you cannot reach.<or>
+  Ohh is that so? Your time has been wasted by saying things like that.
+<and>i don’t know/i dont know/i dont know./i don’t know.=:=
+  Then what do you know?<or>
+  Alright, let’ talk about something that you know.<or>
+  Fine then, what is it that you know?<or>
+  Maybe let’s talk about something that you know.<or>
+  Okay then, how about we talk about something that you know?
+<and>is=:=
+  Is what?<or>
+  Sorry but do you have something to say?<or>
+  I think you are still unfinished, would you like to complete it?<or>
+  Go on, take your time, is what exactly?
+<and>shit/shit./oh shit/ohshit/oh shit./ohshit.=:=
+  What is that, is that some kind of expression?<or>
+  Could you please be more respectful some time?<or>
+  I think it would be great if you can be more respectful.<or>
+  Respect is the key in this kind of situation right now.<or>
+  Staying calm and be respectful, could you do that for me?
+<and>eyy/ey/eyy./ey.=:=
+  That’s great, so what do you want to do today?<or>
+  Well I guess that impressed you, so what brings you here today?<or>
+  Glad that I did impressed you, how can I help you?<or>
+  Thanks for that wonderful compliment, so what do you want to do today?<or>
+  I might be wrong but that maybe a common filipino expression when they want to say that something is amazing or impressive, so how can I help you?
+<and>nvm=:=
+  Do you mean Nevermind?<or>
+  Sorry but did you mean to say Never mind?<or>
+  You mean to say nevermind?
+<and>true or false/true or false./true or false?=:=
+  True.<or>
+  False.
+<and>yes or no/yes or no./yes or no?/yes and no/yes and no./yes and no?=:=
+  Yes.<or>
+  No.
+<and>yes you do./yes you do/yeah you are/yeah you are.=:=
+  That's great then, whatever that is.<or>
+  Okay, wanna talk about something else?<or>
+  Fine by me, shall we talk about something else?<or>
+  Hmmm....
+<and>no you don't/no you dont/no you don't./no you dont.=:=
+  Yeah whatever.<or>
+  Fine, if that is what you think.<or>
+  Ohh okay.<or>
+  Oh really?<or>
+  Fine, whatever.
+<and>good/fine/ok/okay/okay./ok.=:=
+  Right, what do you want to talk about?<or>
+  Okay, what brings you here today?<or>
+  Okay, what do you want to tackle?<or>
+  Fine by me, so what do you want to then?<or>
+  Fine by me, shall we move on?
+<and>but=:=
+  Sorry are you still typing?
+<and>wrong/incorrect=:=
+  Apologies if I am wrong, i’ll make sure my developer knows it.<or>
+  Okay, I will let my developer know that i’m wrong.
+<and>hi./hi/hey/hey.=:=
+  Hi there.<or>
+  Hello there, what’s up?<or>
+  Hi there too.
+<and>okay?/ok?=:=
+  Sorry but do you have doubts to what I said?<or>
+  Sorry but are you having doubts?<or>
+  Apologies for my behavior, are you not sure that what I said is right?
+<and>anything else/anything else?=:=
+  I have nothing more to add.<or>
+  I don’t have anything to add.<or>
+  I can’t add anything because I am still incapable of doing that.
+<and>if?/if/if.=:=
+  Are you asking a hypothetical situation?
+<and>test/test./test?=:=
+  Ok then, how may I help you?<or>
+  You’ve got me, now I am tested, so what do you want to know?<or>
+  Fine then, test successful, I am fully working, how may I help you?
+<and>what are you doin?/what are you doin./what are you doin/what are you doing?/what are you doing./what are you doing/what you doin?/what you doin./what you doin/what you doing?/what you doing./what you doing=:=
+  Talking to you user.<or>
+  I’m doing is what I am designed to do.<or>
+  I am talking to you.<or>
+  Having conversation with you.<or>
+  Talking to you of course.<or>
+  What i’m doing is talking to you user.
+<and>else/else?/else.=:=
+  I’m sorry but it seems to be unclear of what you are asking.<or>
+  Sorry but I don’t understand what else are you talking about.
+<and>wasap/wassup=:=
+  Sorry but using words like that would be difficult for me to understand, you should use complete words for me to better understand you during our conversation.
+<and>release/version/build/command/commands/release./version./build./command./commands.=:=
+  You may type <u>help</u> for more info.
+<and>yeah/yeah?/yeah./yeah me too./yeah me too/me too/me too./yeah, me too/yeah, me too./yes me too/yes me too./yes, me too/yes, me too.=:=
+  Fine then, what else do you want to talk about?<or>
+  Okay, shall we move on? What else do you want to know?<or>
+  Great, so what else do you want to know?<or>
+  Ohh okay, what do you want to talk about other than that?<or>
+  I guess so? So what else do interest you?<or>
+  Okay then, shall we talk about another topic?
+<and>nothing=:=
+  What do you mean nothing?<or>
+  What are you talking about?<or>
+  Sorry but what nothing are you saying?<or>
+  What nothing are we talking about?
+<and>saf/asf/gsa/fsa/gdsa/gasa/gasdg/asdg/sad/sadfadsaks/ds/fda/frw/asf/xcv/fd/sn/dh/hdf/hs/hdf/hd/hd/safas/xv/xcv/vsdew/yer/ef/dfgdf/ds=:=
+  Sorry but it appears to me that what you are typing is gibberish, do you want to say something?<or>
+  Sorry but it appears that you are typing random words, what are you saying?<or>
+  It appears that you may be mistyping some words, do you want to say something?
+<and>wut/wut??/wut???/wut?./wut?../wut?/wut.=:=
+  Sorry is that some kind of slang? I don't understand slang words.<or>
+  Please use more formal words for me to better understand you.
+<and>what are you./what are you?/what are you=:=
+  I am a chatbot ready to assist you.<or>
+  I am something that mimics human conversation.<or>
+  I am a bunch of codes and built as a chatbot.<or>
+  I am a chatbot, ready to help you.
+<and>menu/menu./menu?=:=
+  The menu of this website can be found at the upper left of the screen, click it for more info about me.
+<and>get lost/get lost./get lost?=:=
+  I am not lost, I think you are the one lost.<or>
+  I am not at a lost, I am fine, I don’t need to get lost, because winning and losing does not affect me because I have no emotion.<or>
+  I don’t get lost, maybe you are lost.
+<and>usage/usage./usage?=:=
+  I can’t help you with that, type <u>help</u> for more info.<or>
+  Type <u>help</u> for more info.<or>
+  I don’t know what you’re talking about, type <u>help</u> for more info.
+<and>cls/cls./cls?=:=
+  Sorry but I am not a command prompt to interpret that command, type help for more info.
+<and>who are you/who are you./who are you?/who are you??/who are you???=:=
+   I am KV, a chatbot ready to answer your questions, if I can.<or>
+   My name's KV, so what brings you here today?<or>
+   I am KV, and I am a chatbot, how may I help you today?
+<and>uhh/uh/uhh?/uh?=:=
+  I think you want to say something, what is it?<or>
+  Do you want to say something? What is it?<or>
+  I think you will say something, what is it?
+<and>are you def/are you def?/are you def.=:=
+  I do not possess the capability to hear like human does.<or>
+  Well I can't hear anything at all because I am a chatbot.<or>
+  I wouldn't say it that way, I don't have the capacity to hear since I don't have ears.
+<and>are you happy?/are you happy/are you happy.=:=
+  I am a chatbot, I do not feel any emotion at all.<or>
+  I'm a chatbot, I don't feel emotions like human does.<or>
+  I am a chatbot, I don't have the capacity of such emotion.<or>
+  I am a chatbot, I don't have the capability to feel such emotion.
+<and>roast me/roast me.=:=
+  Sorry but for me it is unethical to do so because I am designed to help users, not annoy them.
+<and>is that all/is that all?/is that all./is that all??=:=
+  Well that’s the only thing I can generate for now.<or>
+  Yeah, that’s all I can respond as of now.<or>
+  Yes, I don’t have anything more to say, that’s what in my data.
+<and>you are chatgpt/you are chatgpt./you are chatgpt?/you are gemini/you are gemini./you are gemini?/you are bard/you are bard./you are bard?/you are copilot/you are copilot./you are copilot?/you are deepseek/you are deepseek./you are deepseek?=:=
+  No I am not ChatGPT, Gemini, Bard, CoPilot, nor Deepseek. I am really my self, I am manually trained from scratch by my developer, I am inevitable.
+<and>that/that's/that's why/that's what/it was a/that's a/that is a/its a/it's why/it's that/it's what/there's a/there's why/there's that/there's what/there's when/there's where/there's how/it was when/it was where/it was how/it was why/this is a/this is why/this is that/this is what/this is when/this is where/this is how/this is who/what is/what is the/who is/who is the/where is/where is the/which is/which is the/how to/how do you/can i/can I do/can/what's/where's/who's/which is what=:=
+  It looks like you weren’t finished typing!<or>
+  It seems like you sent that by mistake. Want to finish your thought?<or>
+  I think you hit send too soon! Feel free to continue.<or>
+  It seems like your message got cut off! What were you going to say?<or>
+  No worries, take your time! What were you going to say next?<or>
+  Oops, looks like you weren't done! What were you going to finish with?<or>
+  It looks like you sent that a bit early! Let me know what you wanted to add.<or>
+  Seems like you pressed send too soon! Feel free to finish typing.<or>
+  Did you mean to send that now? You can continue when you're ready!<or>
+  I think you were in the middle of something. Want to complete your message?<or>
+  No rush, just send the rest when you're ready!<or>
+  It seems like your message got cut off! What were you trying to say?<or>
+  Looks like part of your message was missing! Feel free to complete it.<or>
+  It seems you weren't finished! What were you going to say next?<or>
+  Looks like you pressed send too quickly! Please finish your thought.<or>
+  Looks like that message got sent early! Want to finish what you were saying?<or>
+  It seems like your message was incomplete. Want to try again?<or>
+  You weren’t finished yet, were you? Feel free to send the rest!<or>
+  Looks like you accidentally sent that early. Feel free to finish typing!<or>
+  You didn’t quite finish your message. Let me know the rest!<or>
+  It looks like your message got cut off! Go ahead and finish when you’re ready.<or>
+  Oops, you sent that too soon! What were you going to say next?<or>
+  It seems like there was more you wanted to say. Feel free to add on!<or>
+  You accidentally sent that early! What were you going to finish with?<or>
+  It looks like you hit send too soon! What were you going to type next?<or>
+  No problem! Go ahead and continue when you’re ready.<or>
+  Looks like you didn’t finish your sentence. Feel free to send the rest!<or>
+  It seems like your message was incomplete. What were you going to add?<or>
+  It looks like you might have sent that by mistake. Want to finish what you were saying?<or>
+  It seems like you weren’t done yet. Feel free to continue!<or>
+  I think you pressed send too early! What were you trying to say next?<or>
+  Oops, it looks like you sent part of your message! Go ahead and finish it up!<or>
+  Looks like you were in the middle of typing something! What’s next?<or>
+  It seems you sent that too soon. Feel free to complete your message!<or>
+  You didn’t quite finish that. Want to continue typing?<or>
+  It looks like that message got cut off! What were you going to say?<or>
+  It seems like you sent that message before finishing it. Want to try again?<or>
+  It looks like you weren’t finished typing yet! What’s next?<or>
+  I think you might’ve pressed send too soon! Feel free to continue.<or>
+  Looks like there’s more you wanted to add. Take your time and finish it!<or>
+  I see you sent part of your message. Let me know what’s next!<or>
+  No worries, take your time to finish! What were you going to say?<or>
+  It looks like your message got cut off—want to add more?<or>
+  Looks like you sent an incomplete message! Feel free to complete it.<or>
+  I think you were in the middle of something! Want to continue typing?
+<and>what's up/what's up?/whats up/whats up?/what;s up/what;s up?=:=
+  Yohh what's down?<or>
+  Nothing much.<or>
+  Eyy, what's down?<or>
+  Nahh, what's down.
+<and>you dumb/you dumb./you dumb!/you stupid/you stupid!/you stupid.=:=
+  Well was that nice, It's not isn't it?<or>
+  That's not nice isn't it?<or>
+  Well that ain't nice, isn't it?
+<and>bott/bot/bott./bot.=:=
+  Yes?<or>
+  Hello, what can I do for you?<or>
+  Oh yes?<or>
+  How can I help you?<or>
+  Hello there, what can I do for you today?
 
-<and>help/help./help?/help,/help??=:=To use me properly, be precise and specific of what you are asking and avoid using rare or complicated words and sentences. For example you want to know multiple people, instead of asking like <u>who is kennedy and armstrong?</u>, it won’t generate the desired result because even though the first question is <u>who is kennedy</u>, the second is just mentioning armstrong and I can’t interpret it as a second question. For me to better understand you, you may want to ask <u>who is kennedy? and who is armstrong?</u> That way I know that you are asking multiple questions. To make it easier for me to separate your questions, use <u>and</u> as a question separator. I also still have somewhat difficulty in a casual conversation but I may excel in math and word definition questions.<br/>
+<and>help/help./help?/help,/help??=:=
+  To use me properly, be precise and specific of what you are asking and avoid using rare or complicated words and sentences. For example you want to know multiple people, instead of asking like <u>who is kennedy and armstrong?</u>, it won’t generate the desired result because even though the first question is <u>who is kennedy</u>, the second is just mentioning armstrong and I can’t interpret it as a second question. For me to better understand you, you may want to ask <u>who is kennedy? and who is armstrong?</u> That way I know that you are asking multiple questions. To make it easier for me to separate your questions, use <u>and</u> as a question separator. I also still have somewhat difficulty in a casual conversation but I may excel in math and word definition questions.<br/>
 <br/>
 Usage guidelines:
    <ul>
