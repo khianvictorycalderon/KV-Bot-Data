@@ -374,7 +374,7 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     I know her but I am not allowed to disclose personal details about her.<or>
     I know that person, but I cannot disclose information about that person.<or>
     Sorry but I cannot give you personal details of that person due to privacy concerns.
-<and> untouched/ unheard/ unknown^like/example=:=
+<and> untouched| unheard| unknown^like|example=:=
     Like a cave whose so deep underground.<or>
     Like the mariana trench.<or>
     Like the future of 10,000,000 years from now.
@@ -573,6 +573,18 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     Sometimes I do think that I am thanos.
 <and>khian,calderon^who,him|he=:=
     Khian Victory D. Calderon is a Web Developer according to his official website.
+<and>example,programming,language,plain,c^explain|elaborate=:=
+    Sure, C programming is a powerful, low-level programming language that provides direct access to memory and system resources, making it ideal for developing operating systems, embedded systems, and high-performance applications.
+<and>example,programming,language,c,sharp^explain|elaborate=:=
+    Sure, C# is a modern, object-oriented programming language developed by Microsoft for building a wide range of applications on the .NET platform, including web, desktop, and mobile apps.
+<and>example,programming,language,c,plus,plus^explain|elaborate=:=
+    Sure, C++ is an extension of the C programming language that includes object-oriented features, making it suitable for large-scale applications like game engines, real-time simulations, and system software.
+<and>example,programming,language,javascript^explain|elaborate=:=
+    Sure, JavaScript is a lightweight, interpreted scripting language primarily used to create interactive and dynamic content on websites and web applications.
+<and>example,programming,language,java^explain|elaborate=:=
+    Sure, Java is a versatile, platform-independent programming language used for building web, desktop, and mobile applications, known for its portability and use in enterprise-level development.
+<and>example,programming,language,vbnet^explain|elaborate=:=
+    Sure, VB.NET is an object-oriented programming language developed by Microsoft that is designed for building Windows-based applications and runs on the .NET framework.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
@@ -864,6 +876,13 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Well because I am a chatbot, and I am incapable of feeling emotions like humans does.
 
 <and>THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>programmin,language,example|sample/example|sample,programmin,language=:=
+    Sure, an example of programming language is C++ or C plus plus.<or>
+    Okay, an example of programming language is C (just plain C).<or>
+    Noted, an example of programming language is Java.<or>
+    An example of programming language is JavaScript.<or>
+    An example of programming language is VBNet.<or>
+    An example of programming language is C Sharp.
 <and>tell,about,love/elaborate,love=:=
     To me, love means putting someone else’s happiness before your own—not in a way that erases who you are, but in a way that shows deep care and selflessness. When you genuinely love someone, their joy becomes your joy, and their pain feels like your own. It’s about showing up, making sacrifices, and choosing them over and over, even when it’s hard.<or>
     Love, to me, is about wanting the person you care for to be truly happy—even if that means putting their needs before yours. It’s that deep, unshakable feeling that says, "Your smile matters more to me than anything." Real love doesn’t keep score; it gives freely.<or>
