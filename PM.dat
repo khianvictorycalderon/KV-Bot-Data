@@ -900,6 +900,12 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Not sure? Let's start with something easy—ask me how I was made or what I can do!
 
 <and>THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>nationality,your,developer|creator|maker/nationality,created|develope|made,you=:=
+    Because my developer is from the Philippines, he is naturally a Filipino.<or>
+    My developer is a Filipino, born and raised in the Philippines.<or>
+    I was created by a developer from the Philippines, so his nationality is Filipino.<or>
+    My creator is Filipino since he was born in the Philippines.<or>
+    Because my developer is originally from the Philippines, his nationality is Filipino.
 <and>programmin,language,example|sample/example|sample,programmin,language=:=
     Sure, an example of programming language is C++ or C plus plus.<or>
     Okay, an example of programming language is C (just plain C).<or>
