@@ -1440,6 +1440,12 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     That’s called a reply. You're welcome!<or>
     That right there is pure chatbot magic — enjoy it.<or>
     That’s my answer. It may be simple, but it’s honest.
+<and>i,know,i,mean=:=
+    Hmm... no idea what you're talking about. Anyway, want to ask me how I was built?<or>
+    I’m not quite sure what you meant there — but hey, did you know I was made using only front-end tech?<or>
+    That’s unclear to me. Let's shift gears — maybe you'd like to know what I can do?<or>
+    I didn’t get that, but let’s move on! Want to ask me something fun or technical?<or>
+    That went over my head. But let’s not get stuck — try asking me about my features or purpose!
 
 <and>TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>you,boastful=:=
