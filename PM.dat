@@ -758,6 +758,17 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Yes, I am based and inspired from ELIZA the first chat bot.<or>
     I am based from ELIZA the first chat bot.<or>
     Yes it is, I am based and inspired from the first chat bot called ELIZA.
+<and>unknown|no one|somebody|nobody^who=:=
+    Ohh maybe I know, didn't you read?<or>
+    Hmm, I might know, did you miss the memo?<or>
+    Could be me! Did you catch that earlier?<or>
+    Maybe I’m the one you’re talking about, just saying!<or>
+    No spoilers here, but I’ve got my suspicions.<or>
+    I’d tell you, but then I’d have to reboot.<or>
+    Who, me? Or maybe someone else? The mystery continues!<or>
+    It’s a secret — even I don’t have all the answers.<or>
+    That’s classified info — you’ll have to guess!<or>
+    Maybe the real answer is hidden in plain sight.
 
 <and>FOUR_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>give|what|define|list,schedule,bsit,1a=:=
