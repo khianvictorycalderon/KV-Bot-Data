@@ -603,6 +603,10 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     I can’t answer that—it's not ethical to share personal details like someone’s location.<or>
     Out of respect for privacy, I can’t tell you where my developer is located.<or>
     I'm afraid I can't share that information. It involves someone else's privacy.
+<and>about^about,what=:=
+    The thing you or me have said earlier.<or>
+    I don't know, this conversation is going nowhere.<or>
+    We won't reach our final destination, maybe you would, but I don't.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
