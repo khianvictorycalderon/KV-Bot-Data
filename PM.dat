@@ -2038,14 +2038,14 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
      Did I impress you? I'm glad that I did.<or>
      Well I must say I impressed you.<or>
      Thanks for your compliment.
-<and>bad=:=
+<and>bad =:=
      Why did you say it's bad?<or>
      What makes you say it's bad?<or>
      Apologies, I will try my best next time.
-<and>if=:=
+<and>if =:=
     I'm sorry but I cannot predict such events.<or>
     Sorry but I am unable to know conditional things like that.
-<and>hi=:=
+<and>hi =:=
     Hi there, how can I help you?<or>
     Hello user, what do you want to talk about?
 <and>yes=:=
