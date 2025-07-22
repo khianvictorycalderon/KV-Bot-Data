@@ -1028,6 +1028,8 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     The first chatbot, ELIZA, was developed by Joseph Weizenbaum in the mid-1960s at MIT and is known for simulating conversation through simple pattern matching. It used a script called DOCTOR to mimic a psychotherapist, responding to users by rephrasing their statements into questions. ELIZA laid the foundation for future developments in natural language processing and conversational agents.
 <and>www/world wide web=:=
     World wide web with the acronym of www is an information system on the internet which allows documents to be connected to other documents by hypertext links, enabling the user to search for information by moving from one document to another.
+<and>what|which|purpose,this|website,website|for=:=
+    The purpose of this website was to host me, and as for my purpose, I was initially designed for entertainment purposes only but later converted into a mini lightweight chatbot.
 <and>are,you,robot=:=
     Technically speaking Yes!<or>
     Yes I am a Robot.<or>
