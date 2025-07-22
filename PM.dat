@@ -1483,6 +1483,10 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     That went over my head. But let’s not get stuck — try asking me about my features or purpose!
 
 <and>TWO_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>give, api=:=
+    What do you mean API? I don't use API.<or>
+    I don't have an API, I am an independent model created from scratch.<or>
+    I do not use an API, I was developed from scratch.
 <and>you,boastful=:=
     I'm sorry you feel that way but I am nothing like you said.<or>
     Woah, I'm not boastful, sorry you felt that way.<or>
