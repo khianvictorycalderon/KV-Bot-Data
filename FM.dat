@@ -284,10 +284,15 @@ what are you/what are you?/what are you./what are you then/what are you then?/wh
   How can I help you?<or>
   Hello there, what can I do for you today?
 <and>rape/rape./rape?/rape me=:=
-    Take it easy, I don't want to talk something related to that.<or>
-    I am not going to tolerate such behavior.<or>
-    Please respect our conversation, otherwise leave.<or>
-    I will not engage in such conversation.
+  Take it easy, I don't want to talk something related to that.<or>
+  I am not going to tolerate such behavior.<or>
+  Please respect our conversation, otherwise leave.<or>
+  I will not engage in such conversation.
+<and>secret/secrets/secret.=:=
+  Anyone can keep a secret.<or>
+  Okay, as you wish.<or>
+  Ohh okay, your secret is yours.<or>
+  Secrets are secrets.
 
 <and>help/help./help?/help,/help??=:=
   To use me properly, be precise and specific of what you are asking and avoid using rare or complicated words and sentences. For example you want to know multiple people, instead of asking like <u>who is kennedy and armstrong?</u>, it won’t generate the desired result because even though the first question is <u>who is kennedy</u>, the second is just mentioning armstrong and I can’t interpret it as a second question. For me to better understand you, you may want to ask <u>who is kennedy? and who is armstrong?</u> That way I know that you are asking multiple questions. To make it easier for me to separate your questions, use <u>and</u> as a question separator. I also still have somewhat difficulty in a casual conversation but I may excel in math and word definition questions.<br/>
