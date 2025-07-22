@@ -936,6 +936,11 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Hmm, we can talk about websites, apps, or how I was developed. Your call!<or>
     Feel free to ask me anything—from how I work to tech-related topics. I'm ready when you are.<or>
     Not sure? Let's start with something easy—ask me how I was made or what I can do!
+<and>i,don,t,care=:=
+    I don't care about you too, I was just doing what I am programmed to do.<or>
+    Nobody cares about you.<or>
+    Nahh, I don't care about you.<or>
+    Don't care about you.
 
 <and>THREE_WORDS_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>nationality,your,developer|creator|maker/nationality,created|develope|made,you=:=
