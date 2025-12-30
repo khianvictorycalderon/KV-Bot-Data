@@ -2065,6 +2065,11 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Is there something you want to talk about?<or>
     What brings you here today?<or>
     How are you feeling right now?
+<and>just=:=
+    Okay?<or>
+    Okay then, wha do you want to talk about?<or>
+    Right...<or>
+    Okay, would you like to talk about something else?
 <and>really=:=
     Well I don't know about that. Type <u>help</u> for more info.<or>
     I’m not quite sure of what you are saying. Type <u>help</u> for more info.
