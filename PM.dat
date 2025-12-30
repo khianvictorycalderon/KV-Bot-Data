@@ -2060,7 +2060,7 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     Okay okay, how can I help you?<or>
     Sure, how may I help you?<or>
     Yes, how may I help you?
-<and>hello=:=
+<and>hello|helo=:=
     Hi there, how can I help you?<or>
     Is there something you want to talk about?<or>
     What brings you here today?<or>
