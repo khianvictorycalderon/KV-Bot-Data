@@ -274,6 +274,13 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     My design ensures I don’t depend on other AI systems, making me self-sufficient.<or>
     I function autonomously because my developer wanted me to work without external support.<or>
     The reason is that I am intended to work fully on my own, using only pre-defined programming.<or>
+<and>updated manually^why=:=  
+    Because I am a static based chatbot that fetches a static dictionary, I do not use external API to save resources. Updating a static dictionary must be done manually.<or>
+    I rely on a fixed dictionary, so any updates need to be done by hand.<or>
+    My responses come from a static set of data, which must be updated manually.<or>
+    I don’t fetch new info automatically, so someone has to update my dictionary.<or>
+    Since I’m a static chatbot, changes to my answers require manual editing.<or>
+    My system doesn’t auto-update; updating my knowledge is a manual process.
 <and>my|i,external api|defined|entire|programmed^how=:=
     I operate entirely on pre-defined programming, so I don’t call any external API or model.<or>
     My responses come from built-in logic and pre-set answers, not from external systems.<or>
