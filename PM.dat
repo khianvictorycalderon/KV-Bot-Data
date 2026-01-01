@@ -631,6 +631,13 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
 <and>api is^you,have=:=
     I don't have an API, I am created from scratch.<or>
     I don't use an API, I was made from scratch.
+<and>what,about|something|else^ok|go|yes|yea|yep=:=
+    Okay then, what do you want to ask?<or>
+    Good, now what else do you want to say?<or>
+    That's great, do you have something in mind?<or>
+    That's great, what do you have in mind?<or>
+    That's actually a good idea, anything you want to say?<or>
+    Good, what is it that you want to ask?
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
