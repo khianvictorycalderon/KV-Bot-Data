@@ -281,6 +281,12 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     I don’t fetch new info automatically, so someone has to update my dictionary.<or>
     Since I’m a static chatbot, changes to my answers require manual editing.<or>
     My system doesn’t auto-update; updating my knowledge is a manual process.
+<and>updated manually^how=:=  
+    I get updated manually by someone editing my dictionary.<or>
+    My updates happen when a person manually changes my response list.<or>
+    Someone has to go into my static dictionary and add or modify entries.<or>
+    Updates are done by hand; I don’t change automatically.<or>
+    My data is static, so humans manually refresh it when needed.
 <and>my|i,external api|defined|entire|programmed^how=:=
     I operate entirely on pre-defined programming, so I don’t call any external API or model.<or>
     My responses come from built-in logic and pre-set answers, not from external systems.<or>
