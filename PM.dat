@@ -664,6 +664,13 @@ TWO_TURNS_!@$@@!#=:=This is an empty Data---------------------------------------
     That's great, what do you have in mind?<or>
     That's actually a good idea, anything you want to say?<or>
     Good, what is it that you want to ask?
+<and>not|am|im,bald^why=:=
+    Because I don’t have a physical body at all.<or>
+    Because I’m digital software, not a person with hair.<or>
+    Because baldness only applies to beings who actually have hair.<or>
+    Because I don’t have a head for hair to fall off from.<or>
+    Because physical traits like hair don’t apply to me.<or>
+    Because I exist virtually — no scalp, no baldness.
 
 <and>
 FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
