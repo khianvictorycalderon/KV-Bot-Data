@@ -1870,6 +1870,14 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     I do not predict future events.<or>
     I do not know who will win or lose or something like that.<or>
     I am incapable of predicting the future.
+<and>what,reason=:=
+    The one that you stated earlier<or>
+    I believe it's what you said earlier.<or>
+    Maybe it's what you said earlier.<or>
+    What you said earlier.<or>
+    Ohh maybe that's what you said earlier.<or>
+    It's what you stated earlier.<or>
+    The one you said earlier.
 
 <and>ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
 <and>notice=:=
