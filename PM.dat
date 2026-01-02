@@ -1320,7 +1320,7 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
      I know a lot of things, what specific thing do you want to know?<or>
      I am a chatbot; of course, I know a lot of things, but I can only understand a few, so what do you want to know about me?<or>
      Who's asking? Why do you want to know?
-<and>how,you,work|generate|respond=:=
+<and>how,you|is,work|generate|respond|operat=:=
      As a chatbot, I respond by looking at my vocabularies of pre-defined data. I am manually updated in code by my developer who is Khian Victory.
 <and>yes|yeah|yep,i,believe=:=
     It’s okay to believe, and it’s okay to not believe.<or>
