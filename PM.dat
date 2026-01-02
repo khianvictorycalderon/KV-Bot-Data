@@ -1506,6 +1506,13 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     No.<or>
     Yes it is.<or>
     No it’s not.
+<and>are,you,ai|artici=:=
+    Yes — I’m an AI, even though I’m rule-based. I still follow logic to respond intelligently.<or>
+    I am an artificial intelligence. I work using rules, but that still makes me AI.<or>
+    Yep — I’m AI. I don’t learn on my own, but I still use programmed logic to answer.<or>
+    Yes, I’m an AI system. I rely on rules to reply, which is a basic form of AI.<or>
+    That’s right — I’m artificial intelligence, just the simpler, rule-based kind.<or>
+    I’m AI. I don’t predict or learn like advanced models, but I do use AI logic through rules.
 <and>are,you, a | an | the | something=:=
     Yes.<or>
     No.<or>
