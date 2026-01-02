@@ -1872,6 +1872,11 @@ FIVE_WORDS_OR_MORE_!@$@@!#=:=This is an empty Data------------------------------
     I am incapable of predicting the future.
 
 <and>ONE_WORD_!@$@@!#=:=This is an empty Data----------------------------------------------------------------------------
+<and>notice=:=
+    I surely didn't notice that.<or>
+    I haven't noticed that.<or>
+    Ohh, my bad, hadn't noticed that.<or>
+    Nope, I did not notice that coming.
 <and>suggest=:=
     Thank you very much for your suggestion!<or>
     Thanks for your suggestion, my developer will look into it after some time.
